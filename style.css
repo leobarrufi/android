@@ -1,0 +1,248 @@
+
+
+
+
+
+
+@font-face {
+  font-family: idroid;
+  src: url(fontes/idroid.otf) format(opentype);
+}
+
+*{
+margin: 0;
+padding: 10px;
+
+}
+
+
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+    background-color:#00E3CC;
+margin: 0%;
+padding: 0%;
+
+}
+ .rodapé{ 
+
+background-image: linear-gradient(to bottom,#009688,#00635A);
+
+background-attachment:fixed;
+  padding:40px;
+ position: relative;
+    bottom:0;
+width:100%;
+font-family: Arial, Helvetica, sans-serif;
+color:black;
+
+
+
+}
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+
+
+
+}
+.rodapé > h1{
+
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+margin-top: 0px;
+text-align: center;
+text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.336);
+}
+
+.rodapé > p{
+
+color: white;
+text-align: center;
+text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.226);
+}
+
+.botoes{
+ 
+background-attachment: fixed;
+padding: 10px;
+box-shadow:1px 2px 5px rgba(0, 0, 0, 0.349);
+background-image: linear-gradient(to bottom,#009688,#00635A);
+background-attachment:fixed;
+width: 100%;
+gap: 10%;
+transition-duration: 1s;
+}
+
+.botoes > a{
+
+text-decoration: none;
+color: white;
+padding: 10px;
+font-size: 17px;
+width: 100%;
+transition-duration: 1s;
+}
+
+.botoes > a:hover{ 
+
+background-color: #00ebd3;
+transform: scale(1.2);
+border-radius: 5px;
+
+}
+  
+
+
+
+
+
+
+
+
+div.conteudo{
+
+
+background-color: white;
+width: 60%;
+margin: 0px auto;
+height: 100%;
+
+padding:20px;
+border-radius: 0 0 20px 20px ;
+
+
+}
+div.conteudo > h1{
+
+font-family: idroid;
+font-size: 27px;
+color: #009688;
+width: 100%;
+}
+
+
+div.conteudo > p{ 
+
+text-align: justify;
+text-indent: 12px;
+width: 100%;
+margin: auto;
+}
+div.conteudo > h2{
+
+font-family: idroid;
+font-size: 20px;
+color: #009688;
+background-image: linear-gradient(to right, #00e3cc8f,white );
+width: 100%;
+
+}
+
+.conteudo >#video{
+
+text-align: center;
+background-color:#00635a ;
+margin: 0px auto;
+height:auto;
+border-radius: 20px;
+width: 100%;
+height:102.6%;
+padding: 20px;
+border: none;
+display: block;
+
+}
+div.links > p{
+text-indent: 18px;
+font-size: 17px;
+width: 100%;
+text-align: justify;
+margin: auto;
+}
+
+div.Queraprendermais{
+
+
+background-color: #32a89c;
+padding: 16px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+border-radius: 20px 20px 0 0;
+display: block;
+color: white;
+text-align: justify;
+}
+div.links{ 
+
+background-color:#44e3d37e ;
+border-radius: 0 0 20px 20px;
+padding: 20px;
+width: 100%;
+text-align: justify;
+margin: auto;
+}
+div.listas{
+gap:20%;
+display: flex;
+text-indent: 40px;
+width: 100%;
+margin: auto;
+}
+
+div.final >p{
+
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+background-color:#00635a ;
+color: white;
+width: 100%;
+text-align: justify;
+margin: auto;
+}
+div.dona >img{
+text-align: center;
+margin: auto;
+width: 100%;
+}
+
+
+.dan{
+
+display:inline-block;
+color: #00635a;
+}
+.dan > a{
+color: #00635a;
+text-decoration: none;
+
+}
+.dan > a:hover{
+
+
+text-decoration: underline;
+}
+
+
+
+.ink > a{
+text-decoration: none;
+color: #00635A;
+
+
+
+}
+
+.ink > a:hover{
+text-decoration: underline;
+
+
+}
+
+.texto{
+text-indent: 12px;
+text-align: justify;
+margin: auto;
+}

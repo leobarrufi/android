@@ -1,0 +1,30 @@
+Oque arrumar no site
+
+     rodapé 
+o rodape, colocar as palavras em baixo
+colocar o link nas palavras em baixo 
+Colocar uma leve sombra nas palavras,algo bem minimalistas
+
+    conteudo
+
+
+
+Trocar as bolinhas por um certinho 
+colocar os links em casa lista. 
+colocar links nos nomes durante os texto com emojis. 
+arrumar o rodapé  e deixar funcionando com os hover e links
+arruamar o degrade do rodapé. 
+
+entrar no site do android  e ir pegando os linsk para colocar em cada lugar na nossa pagina web. 
+
+colocar os links nas listas. ver como o guanabara fez. 
+Fazer o site ser compativel com celular, arrumar ele para ficar certinho no celular. 
+
+***Arrumado***
+
+arrumar a imagem torta - ok
+
+arrumar o fundo do video, caso não consiga preencher todo o fundo com o verde escuro, colcoar um border-radius:25px; 
+e colocar borda no video e no fundo verde colocar apenas border-radius:0 25px; - ok
+
+arruamar as bolinhas das listas
